@@ -1,6 +1,17 @@
-![which-desk-setup-is-best-for-a-developer-379-1602744788208](https://user-images.githubusercontent.com/99192107/199820243-6ff84eed-b783-4ae4-9904-4844872e4d11.jpg)
+# 100DaysOfCode
 
-## Show some ❤️ and star the repo to support me for completing this project.
+<img src="https://user-images.githubusercontent.com/99192107/200122311-5c3ad155-82da-4188-80de-38c3263dd4f5.jpg" width="1000" height='400' />
 
+## Hi Everyone, 
 
-I'm publishing all my code of building apps in Flutter of #100DaysOfCode challenge. 
+I'm publishing all my code related to of #100DaysOfCode challenge of building apps in Flutter. 
+
+You can see my #100DaysOfCode journey on [Twitter](https://twitter.com/hmoeedirfan). 
+
+## Connect with me
+
+[@LinkedIn](https://linkedin.com/in/hmoeedirfan)
+</br>
+[@Website](https://moeedirfan.bio.link)
+
+### Show some ❤️ and star the repo to support me for completing this project.
