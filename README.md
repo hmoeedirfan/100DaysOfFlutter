@@ -14,4 +14,4 @@ You can see my #100DaysOfCode journey on [Twitter](https://twitter.com/hmoeedirf
 </br>
 [@Website](https://moeedirfan.bio.link)
 
-### Show some ❤️ and star the repo to support me for completing this project.
+### Show some ❤️ and star the repo for supporting me completing this completition.
