@@ -1,4 +1,4 @@
-# linkedin_clone
+# LinkedIn UI Clone App
 
 A new Flutter project.
 
