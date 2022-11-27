@@ -1,4 +1,4 @@
-# day2_calculator_app
+# Calculator app UI Clone
 
 A new Flutter project.
 
