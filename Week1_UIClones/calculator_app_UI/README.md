@@ -1,16 +1,12 @@
-# Calculator app UI Clone
+# Calculator App UI Clone
 
-A new Flutter project.
+### I try to clone this UI design on Calculator
 
-## Getting Started
+## Design
 
-This project is a starting point for a Flutter application.
+![Screenshot 2022-11-22 234119](https://user-images.githubusercontent.com/99192107/205439814-ef82025d-805b-48ef-bb6c-a3f8a135d988.png)
 
-A few resources to get you started if this is your first Flutter project:
+Link👉https://dribbble.com/shots/14709020-Calculator/attachments/6408579?mode=media
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## My Calculator App
+![Screenshot 2022-12-03 163313](https://user-images.githubusercontent.com/99192107/205439849-265c2191-b58d-495b-9e09-03aa1b8b4a82.png)
