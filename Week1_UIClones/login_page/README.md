@@ -20,4 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 
 Reference:- https://dribbble.com/shots/15889044-Login-Register-Mobile-App
 
-![photo](https://user-images.githubusercontent.com/99192107/206857635-cd70a213-33f1-4bd8-a7a4-faa196456ef3.jpg)
+![Untitled design](https://user-images.githubusercontent.com/99192107/206857832-1a5d95c1-fd77-4e67-a9c5-3306f1fd0923.png)
