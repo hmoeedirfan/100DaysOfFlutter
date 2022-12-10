@@ -68,7 +68,7 @@ class _HomePageState extends State<HomePage> {
                       Padding(
                         padding: EdgeInsets.fromLTRB(8, 8, 18, 30),
                         child: Text(
-                          '4365',
+                          '1840',
                           style: TextStyle(
                             letterSpacing: 1.2,
                             fontSize: 70,
