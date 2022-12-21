@@ -33,13 +33,40 @@ class Home extends StatelessWidget {
                       const ToDoItem(),
                       const ToDoItem(),
                       const ToDoItem(),
-                      const ToDoItem(),
-                      const ToDoItem(),
-                      const ToDoItem(),
-                      const ToDoItem(),
-                      const ToDoItem(),
-                      const ToDoItem(),
-                      const ToDoItem(),
+                    ],
+                  ),
+                ),
+                Align(
+                  alignment: Alignment.bottomCenter,
+                  child: Row(
+                    children: [
+                      Expanded(
+                        child: Container(
+                          padding: const EdgeInsets.symmetric(
+                            horizontal: 20,
+                            vertical: 5,
+                          ),
+                          decoration: BoxDecoration(
+                            color: Colors.white,
+                            boxShadow: const [
+                              BoxShadow(
+                                color: Colors.grey,
+                                offset: Offset(0.0, 0.0),
+                                blurRadius: 10.0,
+                                spreadRadius: 0.0,
+                              ),
+                            ],
+                            borderRadius: BorderRadius.circular(10),
+                          ),
+                          child: const TextField(
+                            decoration: InputDecoration(
+                              hintText: 'Add a new Todo Item',
+                              border: InputBorder.none,
+                            ),
+                          ),
+                        ),
+                      ),
+                      Container(),
                     ],
                   ),
                 ),
