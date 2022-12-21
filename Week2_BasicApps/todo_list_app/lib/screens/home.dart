@@ -42,6 +42,11 @@ class Home extends StatelessWidget {
                     children: [
                       Expanded(
                         child: Container(
+                          margin: const EdgeInsets.only(
+                            bottom: 20,
+                            right: 10,
+                            left: 10,
+                          ),
                           padding: const EdgeInsets.symmetric(
                             horizontal: 20,
                             vertical: 5,
@@ -66,7 +71,21 @@ class Home extends StatelessWidget {
                           ),
                         ),
                       ),
-                      Container(),
+                      Container(
+                        margin: const EdgeInsets.only(bottom: 20, right: 10),
+                        child: ElevatedButton(
+                          onPressed: () {},
+                          style: ElevatedButton.styleFrom(
+                            primary: tdBlue,
+                            minimumSize: const Size(60, 60),
+                            elevation: 10,
+                          ),
+                          child: const Text(
+                            '+',
+                            style: TextStyle(fontSize: 40),
+                          ),
+                        ),
+                      ),
                     ],
                   ),
                 ),
